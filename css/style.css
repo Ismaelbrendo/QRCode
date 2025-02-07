@@ -93,6 +93,10 @@ body {
 
 }
 
+#qr-code img {
+    max-width: 150px;
+}
+
 #qr-code button {
     display:inline-block;
     justify-content: center;
